@@ -1,5 +1,6 @@
 # Drinking water 💧
-![image](https://user-images.githubusercontent.com/95123951/196153929-2f480a07-bc5f-4de5-baa7-863edd333a4c.png)
+![image](https://user-images.githubusercontent.com/95123951/196155035-5f0f5ef4-767b-4142-aa0c-649b1807dbf2.png)
+
 
 ### Water safe for consumption 🚰
 
