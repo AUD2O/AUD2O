@@ -1,4 +1,4 @@
-# Drinking water 💧
+# water 💧
 ![image](https://user-images.githubusercontent.com/95123951/196155035-5f0f5ef4-767b-4142-aa0c-649b1807dbf2.png)
 
 
